@@ -1,0 +1,87 @@
+html {
+    background: rgb(0, 1, 19);
+}
+
+
+a:link {
+    color: rgb(5, 70, 59) ;
+}
+
+a:visited {
+    color: rgb(255,254,255);
+}
+
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+
+audio {
+    padding-left: 600px;
+    padding-right: 600px;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+
+
+.movie1 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(144, 175, 201);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border:30px;
+}
+
+.movie2 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(94, 132, 138);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 25px;
+    border:30px;
+
+}
+
+.movie3 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(120, 141, 161);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 25px;
+    border:30px;
+}
+
+.movie4 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(120, 161, 147);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 320px;
+    margin-right: 320px;
+    margin-top: 25px;
+    border:30px;
+}
+
+.movie5 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(120, 136, 161);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 320px;
+    margin-right: 320px;
+    margin-top: 25px;
+    border:30px;
+}
